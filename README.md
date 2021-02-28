@@ -42,3 +42,5 @@ Tasks to accomplish during Challenge.
 4) ISL- An Introduction to Statistical Learning with R.
 
 5) Elements of Statistical Learning
+
+6) Columbia Artificial Intelligence MicroMasters - https://www.edx.org/micromasters/columbiax-artificial-intelligence
