@@ -7,6 +7,8 @@ Start Date : March 1st 2021
 
 End Date : June 9 2021
 
+Work for 2 Hours a day. Upload Notes & Code to Github and Update Overall Tracker.
+
 Aim of challenge
 ===============================================
 Learn Data Science in R and Python.
