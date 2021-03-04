@@ -1,3 +1,4 @@
-March 1 - Think Stats Textbook 
-March 2 - Started and Compeleted Kaggle Python Course 
-March 3 - Started Kaggle Machine Learning 
+Day-1-March 1st - Think Stats Textbook 
+Day-2-March 2nd - Started and Compeleted Kaggle Python Course 
+Day-3-March 3rd - Started Kaggle Machine Learning 
+Day-4-March 4th - Compeleted Kaggle Machine Learning Course - Participated in First Kaggle Competition
