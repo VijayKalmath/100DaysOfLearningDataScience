@@ -5,3 +5,4 @@ Day-4-March 4th - Compeleted Kaggle Machine Learning Course - Participated in Fi
 Day-5-March 5th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework started 
 Day-6-March 6th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework comepleted
 Day-7-March 7th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework started 
+Day-8-March 8th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework comepleted
