@@ -3,6 +3,7 @@ Day-2-March 2nd - Started and Compeleted Kaggle Python Course
 Day-3-March 3rd - Started Kaggle Machine Learning 
 Day-4-March 4th - Compeleted Kaggle Machine Learning Course - Participated in First Kaggle Competition
 Day-5-March 5th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework started 
-Day-6-March 6th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework comepleted
+Day-6-March 6th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework completed
 Day-7-March 7th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework started 
-Day-8-March 8th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework comepleted
+Day-8-March 8th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework completed
+Day-9-March 9th - UMich -> Understanding and Visualizaing Data in Python -> Week 3 coursework started 
