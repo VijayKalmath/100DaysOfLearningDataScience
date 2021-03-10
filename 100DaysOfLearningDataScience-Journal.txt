@@ -1,9 +1,10 @@
-Day-1-March 1st - Think Stats Textbook 
-Day-2-March 2nd - Started and Compeleted Kaggle Python Course 
-Day-3-March 3rd - Started Kaggle Machine Learning 
-Day-4-March 4th - Compeleted Kaggle Machine Learning Course - Participated in First Kaggle Competition
-Day-5-March 5th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework started 
-Day-6-March 6th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework completed
-Day-7-March 7th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework started 
-Day-8-March 8th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework completed
-Day-9-March 9th - UMich -> Understanding and Visualizaing Data in Python -> Week 3 coursework started 
+Day-001-March 01st - Think Stats Textbook 
+Day-002-March 02nd - Started and Compeleted Kaggle Python Course 
+Day-003-March 03rd - Started Kaggle Machine Learning 
+Day-004-March 04th - Compeleted Kaggle Machine Learning Course - Participated in First Kaggle Competition
+Day-005-March 05th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework started 
+Day-006-March 06th - UMich -> Understanding and Visualizaing Data in Python -> Week 1 coursework completed
+Day-007-March 07th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework started 
+Day-008-March 08th - UMich -> Understanding and Visualizaing Data in Python -> Week 2 coursework completed
+Day-009-March 09th - UMich -> Understanding and Visualizaing Data in Python -> Week 3 coursework started 
+Day-010-March 10th - UMich -> Understanding and Visualizaing Data in Python -> Week 3 coursework completed
