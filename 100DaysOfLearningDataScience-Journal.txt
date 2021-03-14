@@ -11,3 +11,4 @@ Day-010-March 10th - UMich -> Understanding and Visualizaing Data in Python -> W
 Day-011-March 11th - Stanford Online STATSX0001 Edx Started
 Day-012-March 12th - Stanford Online STATSX0001 Edx Chapter 2 Completed.
 Day-013-March 13th - Stanford Online STATSX0001 Edx Chapter 3 Completed.
+Day-014-March 14th - Think Stats Textbook - Chapter 2 to Chapter 5 Completed.

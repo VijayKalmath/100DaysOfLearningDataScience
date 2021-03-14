@@ -1,18 +1,18 @@
 '''
-think_Stats_First.py 
+think_Stats_First.py
 
-Aim : Exercise 1.3 
+Aim : Exercise 1.3
 
 
-Keys in Pregnancy Object : 
+Keys in Pregnancy Object :
 ['agepreg', 'babysex', 'birthord', 'birthwgt_lb', 'birthwgt_oz', 'caseid', 'finalwgt', 'nbrnaliv', 'outcome', 'prglength', 'totalwgt_oz']
 
 '''
 
 import thinkstats_survey as survey
-from collections import Counter 
+from collections import Counter
 import pprint
-  
+
 def main():
 	table = survey.Pregnancies()
 	table.ReadRecords()
@@ -42,7 +42,7 @@ def main():
 
 		if pregnancy_entry.birthord==1:
 			first_born.append(pregnancy_entry)
-		elif pregnancy_entry.birthord!="NA" : 
+		elif pregnancy_entry.birthord!="NA" :
 			# Adding Check to exclude BirthOrd set to NA.
 			other_ord.append(pregnancy_entry)
 		else:
