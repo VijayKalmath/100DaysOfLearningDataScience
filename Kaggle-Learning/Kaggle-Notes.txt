@@ -1,0 +1,48 @@
+Kaggle Notes: 
+
+Submitting an output to Kaggle:
+======================================
+# Save test predictions to file
+output = pd.DataFrame({'Id': X_test.index,
+                       'SalePrice': preds_test})
+output.to_csv('submission.csv', index=False)
+
+
+0) DecisionTreeRegressor function is part of sklearn tree library
+
+from sklearn.tree import DecisionTreeRegressor
+
+1) RandomForestRegressor function is part of sklearn ensemble library
+
+from sklearn.ensemble import RandomForestRegressor
+
+2) Train Test Split is part of sklearn model_selection library
+
+from sklearn.model_selection import train_test_split
+
+3) Deteminig Mean Absolute Error can be called from sklearn Metrics library.
+
+from sklearn.metrics import mean_absolute_error
+
+4) Imputing missing values in DF frames can be done using sklearn's impute functions ! 
+
+		from sklearn.impute import SimpleImputer
+		# Fill in the lines below: imputation
+		my_impute=SimpleImputer # Your code here
+		imputed_X_train = pd.DataFrame(my_imputer.fit_transform(X_train))
+
+
+5) One Hot Encoding -> Create Columns for the different values for existing Column. One Hot Encoding does not look at ordering of categories.
+	
+		from sklearn.preprocessing mport OneHotEncoder
+		OH_encoder=OneHotEncoder.(handle_unknown='ignore',sparse=False)
+		# Only input Categorical columns into OH Encoder.
+		# Delete Categorical column from X_train,X_validation
+		# concatenate X_train and OH_encoder df output.
+
+For large datasets with many rows, one-hot encoding can greatly expand the size of the dataset.  For this reason, we typically will only one-hot encode columns with relatively low cardinality.  Then, high cardinality columns can either be dropped from the dataset, or we can use label encoding.
+
+
+6) 
+ 
+
