@@ -23,9 +23,9 @@ Tasks to accomplish during Challenge.
 
 2) Kaggle Courses 
    
-        a) Python
+        a) Python - Completed
    
-        b) Intro to Machine Learning.
+        b) Intro to Machine Learning - Completed
         
         c) Data Visualization 
    
@@ -39,6 +39,6 @@ Tasks to accomplish during Challenge.
 
         c) Inferential Statistical Analysis with Python
 
-4) ISL- An Introduction to Statistical Learning with R.
+4) StanfordOnline STATSX0001 - StanfordOnline STATSX0001 is based on the book - ISLR - An Introduction to Statistical Learning with R.
 
-5) Elements of Statistical Learning
+6) Elements of Statistical Learning
